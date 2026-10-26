@@ -1,0 +1,8 @@
+{
+  "schemaVersion": 1,
+  "ready": false,
+  "complete": false,
+  "generatedAt": null,
+  "source": "Tribunal Superior Eleitoral (TSE)",
+  "message": "Snapshot final ainda não gerado. Execute node scripts/build-snapshot.js em um ambiente com acesso às fontes oficiais e confira o relatório produzido."
+}

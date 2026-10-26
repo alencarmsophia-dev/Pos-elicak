@@ -1,0 +1,11 @@
+{
+  "name": "painel-apuracao",
+  "private": true,
+  "scripts": {
+    "start": "node server.js",
+    "test": "node scripts/test-pos-core.mjs",
+    "build:municipios": "node scripts/build-municipios.js",
+    "build:snapshot": "node scripts/build-snapshot.js",
+    "build:horarios": "node scripts/build-horarios.js"
+  }
+}

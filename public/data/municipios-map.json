@@ -1,0 +1,10 @@
+{
+  "schemaVersion": 1,
+  "complete": false,
+  "source": null,
+  "generatedAt": null,
+  "mappingCount": 0,
+  "mappings": [],
+  "exceptions": [],
+  "note": "Tabela de correspondência TSE ↔ IBGE não preenchida. Não inferir códigos iguais sem validação em fonte oficial. Forneça um CSV/JSON oficial ao script scripts/build-municipios.js."
+}

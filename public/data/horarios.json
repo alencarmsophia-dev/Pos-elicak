@@ -1,0 +1,10 @@
+{
+  "schemaVersion": 1,
+  "semantics": "totalizacao",
+  "timeZone": "America/Sao_Paulo",
+  "window": { "start": "17:00", "end": "19:00", "officiallyVerified": false },
+  "source": null,
+  "officialSource": null,
+  "note": "Arquivo inicial sem pontos históricos. Adicione apenas snapshots oficiais reais. Se semantics=totalizacao, os valores devem ser acumulados; o primeiro ponto serve como linha de base e não entra no cálculo de votos novos.",
+  "points": []
+}
